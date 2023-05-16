@@ -1,3 +1,3 @@
 # CSS_4-dars
 
-CSS 4-darsning kodlari.
+Bu faylda CSS 4-darsning kodlari yozilgan va menu paneli va buttonlar haqida
